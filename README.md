@@ -1,4 +1,4 @@
-# AI Tool Note
+# Develop Note
 
 使用 VitePress 建立的技術筆記站，所有筆記內容放在 `docs/`，並透過 GitHub Actions 自動部署到 GitHub Pages。
 
@@ -280,7 +280,7 @@ function resolveBasePath(): string {
 
 ### 快速檢查清單
 
-- 專案頁面 repo（例如 `owner/ai-tool-note`）：
+- 專案頁面 repo（例如 `owner/develop-note`）：
   - `base` 應為 `/<repo>/`
 - 使用者/組織頁面 repo（`*.github.io`）：
   - `base` 應為 `/`
@@ -290,4 +290,5 @@ function resolveBasePath(): string {
 ## License
 
 本專案採用 [MIT License](LICENSE)。
+
 
