@@ -70,7 +70,7 @@ vscode.commands.registerCommand("git-ai.commit", () => {});
 
 # 2️⃣ SCM View
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 SCM = **Source Control Management**
 
